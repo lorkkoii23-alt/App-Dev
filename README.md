@@ -2,7 +2,7 @@
 My first repository
 
 # Apothecary Diaries!
-![Poster of the series]([https://wallpapercave.com/the-apothecary-diaries-wallpapers](https://imgs.search.brave.com/MDRPVqvrX2ZImw4xodgkQmEsvYuGe9dUUM61Bsw9GIs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEzMjA3/ODEzLnBuZw))
+![Poster of the series](https://imgs.search.brave.com/MDRPVqvrX2ZImw4xodgkQmEsvYuGe9dUUM61Bsw9GIs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEzMjA3/ODEzLnBuZw)
 
 The Apothecary Diaries is an anime series about a girl who lived with her adopted father who knows a lot about medicine until she gets abducted and sent to work at the inner palace.
 She meets a lot of new people while being involved in cases inside her new workplace. 
